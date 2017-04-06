@@ -1,0 +1,86 @@
+	#aboutBackground{
+		position: relative;
+		float: left;
+		top: 50%;
+		left: 0%;
+		transform: translate(0%, 50%);
+	}
+	#usBackground{
+		min-height:60vh;
+
+		background-repeat: no-repeat !important;
+		background-position: center !important;
+		background-size: cover !important;
+		background-image: url(../img/aboutUs.jpg)
+	}
+	#usText{
+		position: relative;
+		float: left;
+		top: 50%;
+		left: 0%;
+		transform: translate(0%, 50%);
+	}
+	.section{
+		padding:0px;
+	}
+
+	.row {
+		margin-bottom:0px;
+	}
+	#promotion{
+		position:relative;
+		padding-top:12px;
+		min-height:90vh;
+		background-repeat: no-repeat !important;
+		background-position: center !important;
+		background-size: cover !important;
+		background-image: url(../img/mission.jpg)
+	}
+	#promotionText{
+		max-width: 600px;
+		padding-top:30vh;
+		/*		position: absolute;
+		float: left;
+		top: 50%;
+		left: 0%;
+		transform: translate(8%, 50%);*/
+	}
+	#leftBackground{
+
+		background-repeat: no-repeat !important;
+		background-position: center !important;
+		background-size: cover !important;
+		background-image: url(../img/kid.jpg);
+		min-height:60vh;
+
+	}
+	#rightBackground{
+		min-height:60vh;
+
+
+	}
+	#rightText{
+		position: relative;
+		float: left;
+		top: 50%;
+		left: 0%;
+	}
+
+	#filler{
+		position:relative;
+		min-height:90vh;
+		background-repeat: no-repeat !important;
+		background-position: center !important;
+		background-size: cover !important;
+		background-image: url(../img/filler.jpg)
+	}
+
+
+
+
+
+
+
+
+
+
